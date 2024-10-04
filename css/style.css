@@ -180,6 +180,28 @@ body {
 /* HOW IT WORKs SECTION*/
 /***************************/
 
+.section-how {
+  padding: 9.6rem 0;
+}
+
+.step-number {
+  font-size: 8.6rem;
+  font-weight: 600;
+  color: #ddd;
+  margin-bottom: 1.2rem;
+}
+
+.step-description {
+  font-size: 1.8rem;
+  line-height: 1.6;
+}
+
+.step-img-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .step-img {
-  width: 50%;
+  width: 35%;
 }
