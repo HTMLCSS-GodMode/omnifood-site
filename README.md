@@ -2,7 +2,7 @@
 
 # OmniFood
 
-OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 4.0.
+OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 5.0.
 
 This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-site/)
 
