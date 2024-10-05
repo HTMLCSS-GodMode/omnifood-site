@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif-converter(6)](https://github.com/user-attachments/assets/ce5e453f-9e36-4872-b4e6-58760985b089)
+![ezgif com-video-to-gif-converter(7)](https://github.com/user-attachments/assets/9faba0fb-69f7-4938-972a-5820ad3c811e)
 
 # OmniFood
 
@@ -10,6 +10,7 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 
 - **Hero Section**: Engages visitors with high-quality imagery and a clear call-to-action.
 - **Header with New Logo**: A redesigned header featuring our brand-new logo and enhanced navigation.
+- **Featured In Section**: Highlights the trusted media outlets and publications that have featured OmniFood, boosting credibility and user trust.
 - **How It Works Section**: Guides users through the steps to use the OmniFood service.
 - **Reusable Grid System**: A flexible, responsive grid system for quick layout development.
 - **Modular CSS Files**: The CSS has been split into multiple files, improving readability and making the code easier to manage and scale.
