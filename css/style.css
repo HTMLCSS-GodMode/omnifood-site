@@ -297,6 +297,8 @@ body {
 
 .meal-tags {
   margin-bottom: 12px;
+  display: flex;
+  gap: 0.4rem;
 }
 
 .tag {
