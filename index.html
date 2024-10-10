@@ -11,6 +11,15 @@
     />
     <link rel="stylesheet" href="css/general.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <!-- ICONS IMPORTING -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
     <title>OmniFood</title>
   </head>
   <body>
@@ -168,12 +177,29 @@
               src="img/meals/meal-1.jpg"
               alt="Japanese Gyozas"
             />
-            <p class="meal-title">Japanese Gyozas</p>
-            <ul class="meal-attributes">
-              <li class="meal-attribute">something</li>
-              <li class="meal-attribute">something</li>
-              <li class="meal-attribute">something</li>
-            </ul>
+            <div class="meal-content">
+              <div class="meal-tags">
+                <span class="tag tag--vegetarian">Vegetarian</span>
+              </div>
+              <p class="meal-title">Japanese Gyozas</p>
+              <ul class="meal-attributes">
+                <li class="meal-attribute">
+                  <ion-icon class="meal-icon" name="flame-outline"></ion-icon
+                  ><span><strong>650</strong> calories</span>
+                </li>
+                <li class="meal-attribute">
+                  <ion-icon
+                    class="meal-icon"
+                    name="restaurant-outline"
+                  ></ion-icon
+                  ><span>NutriScore &reg; <strong>74</strong></span>
+                </li>
+                <li class="meal-attribute">
+                  <ion-icon class="meal-icon" name="star-outline"></ion-icon
+                  ><span><strong>4.9</strong> rating (537)</span>
+                </li>
+              </ul>
+            </div>
           </div>
           <div class="meal">MEal</div>
           <div class="diets">MEal</div>
