@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif-converter(7)](https://github.com/user-attachments/assets/9faba0fb-69f7-4938-972a-5820ad3c811e)
+![ezgif com-optimize(3)](https://github.com/user-attachments/assets/b799775b-36a6-4c72-8811-888ae7db1a1b)
 
 # OmniFood
 
@@ -11,6 +11,7 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 - **Hero Section**: Engages visitors with high-quality imagery and a clear call-to-action.
 - **Header with New Logo**: A redesigned header featuring our brand-new logo and enhanced navigation.
 - **Featured In Section**: Highlights the trusted media outlets and publications that have featured OmniFood, boosting credibility and user trust.
+- **Meals Section**: Showcases a variety of meals with smooth hover animations, enhancing user interaction.
 - **How It Works Section**: Guides users through the steps to use the OmniFood service.
 - **Reusable Grid System**: A flexible, responsive grid system for quick layout development.
 - **Modular CSS Files**: The CSS has been split into multiple files, improving readability and making the code easier to manage and scale.
@@ -19,7 +20,9 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Updates](#updates)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [Author](#author)
 
@@ -29,7 +32,7 @@ To run the project locally:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/omnifood.git`
+    `git clone https://github.com/HTMLCSS-GodMode/omnifood-site.git`
 
 2.  Navigate to the project folder:
 
@@ -43,6 +46,16 @@ This project is designed to be easy to extend or customize. The grid system and 
 
 - **Grid System**: The grid system uses a flexible, responsive design that adapts to various screen sizes.
 - **CSS Files**: Each major section (e.g., header, navigation, hero, grid) is split into separate CSS files for better organization and maintenance.
+- **General CSS**: The `general.css` file contains reusable styles and variables that can be used throughout the project to ensure design consistency and ease of maintenance.
+
+## Updates
+
+### Version 6.0.0 - October 10, 2024
+
+- **Meals Section**: A new **Meals Section** has been added to showcase a variety of meal options with engaging animations and improved visuals.
+- **Improved Visuals & Animations**: New animations and hover effects have been applied across the site for a smoother, more interactive user experience.
+- **CSS System Enhancements**: The **general.css** file has been extended, and the overall CSS structure has been improved for better readability and reuse.
+- **Featured In Section Update**: Logos in the **Featured In** section now have a light-up effect on hover, adding a modern interactive element.
 
 ## Contributing
 
@@ -63,13 +76,17 @@ We welcome contributions to the OmniFood project! Feel free to submit a pull req
 
 5.  Open a pull request
 
+## Acknowledgements
+
+A special thanks to **Jonas Schmedtmann** for the inspiration and project idea behind OmniFood. His tutorials and teachings laid the foundation for this project and helped guide its development.
+
 ## License
 
 This project is licensed under a **Limited Usage License**. You may use the code for **personal projects** or **non-commercial purposes**. For any commercial use, including reselling or distributing the code, please contact the author for permission.
 
 ## Author
 
-**OmniFood** was developed by [Your Name].
+**OmniFood** was developed by **Swarnavo Khanra**.
 
 - GitHub: [@Anonav0](https://github.com/Anonav0)
 - LinkedIn:[Swarnavo Khanra](https://linkedin.com/in/swarnavo-khanra)
