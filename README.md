@@ -1,8 +1,8 @@
-![ezgif com-optimize(3)](https://github.com/user-attachments/assets/b799775b-36a6-4c72-8811-888ae7db1a1b)
+![ezgif com-optimize(5)](https://github.com/user-attachments/assets/a077c064-95ec-4b1e-b2fe-fe41c54e1f0f)
 
-# OmniFood
+# ️OmniFood🍽️
 
-OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 5.0.
+OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 7.0.
 
 This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-site/)
 
@@ -13,6 +13,8 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 - **Featured In Section**: Highlights the trusted media outlets and publications that have featured OmniFood, boosting credibility and user trust.
 - **Meals Section**: Showcases a variety of meals with smooth hover animations, enhancing user interaction.
 - **How It Works Section**: Guides users through the steps to use the OmniFood service.
+- **Testimonial Section**: Displays customer feedback with clean design and transitions, building social proof and trust.
+  Gallery Section: A beautiful, interactive gallery that showcases meal imagery with engaging hover effects and animations.
 - **Reusable Grid System**: A flexible, responsive grid system for quick layout development.
 - **Modular CSS Files**: The CSS has been split into multiple files, improving readability and making the code easier to manage and scale.
 
@@ -49,6 +51,12 @@ This project is designed to be easy to extend or customize. The grid system and 
 - **General CSS**: The `general.css` file contains reusable styles and variables that can be used throughout the project to ensure design consistency and ease of maintenance.
 
 ## Updates
+
+### Version 7.0.0 - October 11, 2024
+
+- **Testimonial Section**: Added a new **Testimonial Section** to display customer feedback with clean, smooth transitions for building trust and credibility.
+- **Gallery Section**: Introduced an interactive **Gallery Section** with engaging hover effects and animations to showcase OmniFood's meals and services.
+- **Improved Aesthetics**: Visual enhancements across the site for a more polished and consistent look, with improved typography, spacing, and color contrast.
 
 ### Version 6.0.0 - October 10, 2024
 
