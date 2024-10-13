@@ -1,8 +1,8 @@
-![ezgif com-optimize(5)](https://github.com/user-attachments/assets/a077c064-95ec-4b1e-b2fe-fe41c54e1f0f)
+![ezgif com-optimize(6)](https://github.com/user-attachments/assets/be4b09af-9068-4265-bdcb-f417d2949a0d)
 
 # ️OmniFood🍽️
 
-OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 7.0.
+OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 8.0.
 
 This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-site/)
 
@@ -10,13 +10,16 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 
 - **Hero Section**: Engages visitors with high-quality imagery and a clear call-to-action.
 - **Header with New Logo**: A redesigned header featuring our brand-new logo and enhanced navigation.
-- **Featured In Section**: Highlights the trusted media outlets and publications that have featured OmniFood, boosting credibility and user trust.
-- **Meals Section**: Showcases a variety of meals with smooth hover animations, enhancing user interaction.
 - **How It Works Section**: Guides users through the steps to use the OmniFood service.
+- **Featured In Section**: Highlights trusted media outlets and publications with interactive light-up logos, boosting credibility and user trust.
+- **Meals Section**: Showcases a variety of meals with smooth hover animations, enhancing user interaction.
 - **Testimonial Section**: Displays customer feedback with clean design and transitions, building social proof and trust.
-  Gallery Section: A beautiful, interactive gallery that showcases meal imagery with engaging hover effects and animations.
+- **Gallery Section**: A beautiful, interactive gallery that showcases meal imagery with engaging hover effects and animations.
+- **Pricing Model Section**: New section to clearly present OmniFood's service plans with pricing tiers and comparison options.
 - **Reusable Grid System**: A flexible, responsive grid system for quick layout development.
+- **Improved UI Design**: Enhanced visual consistency, including refined typography, button styles, and color contrast for better accessibility.
 - **Modular CSS Files**: The CSS has been split into multiple files, improving readability and making the code easier to manage and scale.
+- **Extended General CSS**: Reusable classes and styles are defined in `general.css` for consistent layout and design across the site.
 
 ## Table of Contents
 
@@ -52,18 +55,18 @@ This project is designed to be easy to extend or customize. The grid system and 
 
 ## Updates
 
+### Version 8.0.0 - October 12, 2024
+
+- **Pricing Model Section**: A new **Pricing Model Section** has been added to display the various service plans with pricing tiers, benefits, and comparisons for easy selection.
+- **Grid System Enhancements**: The grid system has been further refined for improved responsiveness and better organization across different screen sizes.
+
 ### Version 7.0.0 - October 11, 2024
 
 - **Testimonial Section**: Added a new **Testimonial Section** to display customer feedback with clean, smooth transitions for building trust and credibility.
 - **Gallery Section**: Introduced an interactive **Gallery Section** with engaging hover effects and animations to showcase OmniFood's meals and services.
 - **Improved Aesthetics**: Visual enhancements across the site for a more polished and consistent look, with improved typography, spacing, and color contrast.
 
-### Version 6.0.0 - October 10, 2024
-
-- **Meals Section**: A new **Meals Section** has been added to showcase a variety of meal options with engaging animations and improved visuals.
-- **Improved Visuals & Animations**: New animations and hover effects have been applied across the site for a smoother, more interactive user experience.
-- **CSS System Enhancements**: The **general.css** file has been extended, and the overall CSS structure has been improved for better readability and reuse.
-- **Featured In Section Update**: Logos in the **Featured In** section now have a light-up effect on hover, adding a modern interactive element.
+For a complete list of all updates and changes, please refer to the [Releases](https://github.com/HTMLCSS-GodMode/omnifood-site/releases) section of our GitHub repository.
 
 ## Contributing
 
