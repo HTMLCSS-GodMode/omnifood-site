@@ -531,10 +531,6 @@ body {
   background-position: center;
 }
 
-.cta-img-box:hover {
-  transform: scale(1.1);
-}
-
 .cta-form {
   display: grid;
   grid-template-columns: 1fr 1fr;
