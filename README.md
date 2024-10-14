@@ -1,8 +1,8 @@
-![ezgif com-optimize(7)](https://github.com/user-attachments/assets/1e2ea3df-d912-4f7e-a6e2-c6c37113877e)
+![ezgif com-optimize(8)](https://github.com/user-attachments/assets/605cf4b1-e75e-4f5c-8a70-23fb3631d9e9)
 
 # ️OmniFood🍽️
 
-OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 8.1.
+OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 9.0.
 
 This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-site/)
 
@@ -17,10 +17,12 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 - **Gallery Section**: A beautiful, interactive gallery that showcases meal imagery with engaging hover effects and animations.
 - **Pricing Model Section**: Clearly presents OmniFood's service plans with pricing tiers and comparison options.
 - **Features Tab**: Highlights the core services and features offered by OmniFood, helping users better understand the value of the service.
+- **Call to Action (CTA) Section**: A clear and engaging call-to-action section to guide users toward signing up or learning more.
 - **Reusable Grid System**: A flexible, responsive grid system for quick layout development.
 - **Improved UI Design**: Enhanced visual consistency, including refined typography, button styles, and color contrast for better accessibility.
 - **Modular CSS Files**: The CSS has been split into multiple files, improving readability and making the code easier to manage and scale.
 - **Extended General CSS**: Reusable classes and styles are defined in `general.css` for consistent layout and design across the site.
+- **Improved Accessibility**: Enhanced accessibility visuals, including better color contrast, focus states, and screen reader compatibility.
 
 ## Table of Contents
 
@@ -42,7 +44,7 @@ To run the project locally:
 
 2.  Navigate to the project folder:
 
-    `cd omnifood`
+    `cd omnifood-site`
 
 3.  Open `index.html` in your browser to view the website.
 
@@ -56,6 +58,12 @@ This project is designed to be easy to extend or customize. The grid system and 
 
 ## Updates
 
+### Version 9.0.0 - October 14, 2024
+
+- **Call to Action (CTA) Section**: A new **Call to Action** section was added to guide users toward taking the next step, whether it's signing up or exploring meal plans.
+- **Design System Enhancements**: The design system was centralized into the `general.css` file, improving maintainability and reusability.
+- **Accessibility Improvements**: Visual improvements for accessibility, including enhanced color contrast, focus states, and screen reader compatibility.
+
 ### Version 8.1.0 - October 13, 2024
 
 - **Features Tab**: Added a new **Features Tab** that highlights OmniFood's key services and offerings in a well-organized format, improving the site's overall UI.
@@ -64,12 +72,6 @@ This project is designed to be easy to extend or customize. The grid system and 
 
 - **Pricing Model Section**: A new **Pricing Model Section** has been added to display the various service plans with pricing tiers, benefits, and comparisons for easy selection.
 - **Grid System Enhancements**: The grid system has been further refined for improved responsiveness and better organization across different screen sizes.
-
-### Version 7.0.0 - October 11, 2024
-
-- **Testimonial Section**: Added a new **Testimonial Section** to display customer feedback with clean, smooth transitions for building trust and credibility.
-- **Gallery Section**: Introduced an interactive **Gallery Section** with engaging hover effects and animations to showcase OmniFood's meals and services.
-- **Improved Aesthetics**: Visual enhancements across the site for a more polished and consistent look, with improved typography, spacing, and color contrast.
 
 For a complete list of all updates and changes, please refer to the [Releases](https://github.com/HTMLCSS-GodMode/omnifood-site/releases) section of our GitHub repository.
 
