@@ -1,3 +1,51 @@
+/* 
+
+--- 01 TYPOGRAPHY SYSTEM
+
+
+-FONT SIZE SYSTEM (px):
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-FONT WEIGHT:
+Default: 1
+Medium : 500
+semi-bold : 600
+bold : 700
+
+-LINE HEIGHTS:
+Default : 1
+small : 1.05
+Paragraph default : 1.6
+
+-SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+
+--- 02 COLORS
+
+- Primary :  #e67e22
+- Tints : #fdf2e9
+#fae5d3
+- Shades : #cf711f 
+- Accents : 
+- Greys : #555 #333;
+#6f6f6f: lightest grey allowed;
+
+#51cf66;
+#94d82d;
+#ffd43b;
+
+--- 03 SHADOWS 
+
+--- 06 BORDER-RADIUS
+default : 9px
+
+--- 07 WHITESPACE
+
+
+        
+*/
+
 /* ************************ */
 /* GENERAL REUSEABLE COMPONENTS */
 /***************************/
