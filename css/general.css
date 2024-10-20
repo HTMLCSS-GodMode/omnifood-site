@@ -266,3 +266,8 @@ body {
 strong {
   font-weight: 500;
 }
+
+/* TO STOP SCROLLING */
+.stop-scroll {
+  overflow: hidden;
+}

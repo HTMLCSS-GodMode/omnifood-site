@@ -14,6 +14,7 @@ const headerEl = document.querySelector("header");
 
 btnNavEl.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
+  document.documentElement.classList.toggle("stop-scroll");
 });
 
 // close mobile navigation
@@ -23,6 +24,7 @@ allLinks.forEach((link) => {
   link.addEventListener("click", () => {
     if (link.classList.contains("main-nav-link"))
       headerEl.classList.toggle("nav-open");
+    document.documentElement.classList.toggle("stop-scroll");
   });
 });
 
