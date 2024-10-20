@@ -24,7 +24,7 @@ allLinks.forEach((link) => {
   link.addEventListener("click", () => {
     if (link.classList.contains("main-nav-link"))
       headerEl.classList.toggle("nav-open");
-    document.documentElement.classList.toggle("stop-scroll");
+    document.documentElement.classList.remove("stop-scroll");
   });
 });
 
