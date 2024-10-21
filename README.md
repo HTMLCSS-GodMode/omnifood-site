@@ -1,8 +1,8 @@
-![ezgif com-optimize(9)](https://github.com/user-attachments/assets/64e44174-956d-451f-9981-0357a345b18c)
+![ezgif com-optimize(18)](https://github.com/user-attachments/assets/2c29669a-5c40-4c0a-a69a-df4638019d08)
 
 # ️OmniFood🍽️
 
-OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 10.0.
+OmniFood is a modern, user-friendly website designed to promote a healthy food delivery service. The project focuses on providing a visually appealing and intuitive user experience with clean, modular code for easy development and maintenance. This repository contains the source code for the OmniFood website, including the new features from version 14.2.
 
 This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-site/)
 
@@ -26,6 +26,7 @@ This site is live on : [OmniFood](https://htmlcss-godmode.github.io/omnifood-sit
 - **Improved Accessibility**: Enhanced accessibility visuals, including better color contrast, focus states, and screen reader compatibility.
 - **White Space Optimization**: Improved overall content distribution and readability with better white space management.
 - **Design System**: Introduction of a scalable, consistent design system for UI elements.
+- **Web App Integration**: Now installable as a web app on Android and iOS, enhancing the mobile experience.
 
 ## Table of Contents
 
@@ -61,19 +62,18 @@ This project is designed to be easy to extend or customize. The grid system and 
 
 ## Updates
 
-### Version 10.0.0 - October 3, 2024
+### Version 14.2.0 - October 20, 2024
 
-- **Footer Section**: A new **Footer Section** was added, completing the layout with important links, contact information, and social media icons.
-- **White Space Optimization**: Improved white spacing across the site, resulting in better readability and visual hierarchy.
-- **Header Updates**: A refined **Header** for better navigation and appearance.
-- **New Design System**: Introduced a scalable and reusable design system to maintain consistency across all UI elements.
-- **Final Desktop Version**: This release marks the final update for the desktop version of OmniFood.
+- **Web App Support for Android and iOS**: This update introduces the ability for users to install the site on their mobile devices, enhancing the mobile experience with an app-like interface for both Android and iOS devices.
 
-### Version 9.0.0 - October 3, 2024
+### Version 14.1.0 - October 20, 2024
 
-- **Call to Action (CTA) Section**: A new **Call to Action** section was added to guide users toward taking the next step, whether it's signing up or exploring meal plans.
-- **Design System Enhancements**: The design system was centralized into the `general.css` file, improving maintainability and reusability.
-- **Accessibility Improvements**: Visual improvements for accessibility, including enhanced color contrast, focus states, and screen reader compatibility.
+- **Improved Performance and SEO**: Added detailed metadata for better SEO and optimized the site's performance with faster loading times.
+
+### Version 14.0.0 - October 20, 2024
+
+- **Image Optimization**: All images have been compressed and optimized for faster loading times, improving site performance.
+- **Accessibility Enhancements**: Further improvements have been made to accessibility features, ensuring a more inclusive browsing experience.
 
 For a complete list of all updates and changes, please refer to the [Releases](https://github.com/HTMLCSS-GodMode/omnifood-site/releases) section of our GitHub repository.
 
@@ -106,7 +106,7 @@ This project is licensed under a **Limited Usage License**. You may use the code
 
 ## Author
 
-**OmniFood** was developed by **Swarnavo Khanra**.
+**OmniFood** is developed by **Swarnavo Khanra**.
 
 - GitHub: [@Anonav0](https://github.com/Anonav0)
 - LinkedIn:[Swarnavo Khanra](https://linkedin.com/in/swarnavo-khanra)
