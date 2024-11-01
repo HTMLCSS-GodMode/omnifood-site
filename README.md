@@ -102,7 +102,7 @@ A special thanks to **Jonas Schmedtmann** for the inspiration and project idea b
 
 ## License
 
-This project is licensed under a **Limited Usage License**. You may use the code for **personal projects** or **non-commercial purposes**. For any commercial use, including reselling or distributing the code, please contact the author for permission.
+This project is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. You may use the code for **personal projects** or **non-commercial purposes**. For any commercial use, including reselling or distributing the code, please contact the author for permission.
 
 ## Author
 
